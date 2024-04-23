@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-// This line specifies the path to the interpreter for the script.
-
 if (process.argv[2] === undefined || isNaN(process.argv[2])) {
   console.log('Missing size');
   // If the command-line argument is undefined or not a number, print 'Missing size'.

@@ -1,12 +1,6 @@
 #!/usr/bin/node
 
-// This line specifies the path to the interpreter for the script.
-
 if (process.argv[2] === undefined || isNaN(process.argv[2])) {
-  // This block of code checks if the command-line argument is undefined or,
-  // not a number.
-  // If either condition is true, it outputs 'Missing number,
-  // of occurrences' to the console.
 } else {
   // If the conditions in the "if" statement are not met,
   // this block of code executes.

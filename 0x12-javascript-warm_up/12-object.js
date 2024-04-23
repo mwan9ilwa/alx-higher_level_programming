@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-// This line specifies the path to the interpreter for the script.
-
 const myObject = {
   type: 'object',
   value: 12

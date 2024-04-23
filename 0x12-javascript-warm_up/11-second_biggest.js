@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-// This line specifies the path to the interpreter for the script.
-
 if (process.argv.length <= 3) {
   console.log('0');
   // If there are not enough command-line arguments (less than or equal to 3),

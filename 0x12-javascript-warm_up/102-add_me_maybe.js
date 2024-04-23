@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-// This line specifies the path to the interpreter for the script.
-
 exports.addMeMaybe = function (number, theFunction) {
   // This line exports a function named "addMeMaybe" that takes two,
   // parameters: "number" and "theFunction".

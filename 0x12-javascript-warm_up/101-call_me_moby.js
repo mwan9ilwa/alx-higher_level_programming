@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-// This line specifies the path to the interpreter for the script.
-
 exports.callMeMoby = function (x, theFunction) {
   // This line exports a function named "callMeMoby" that takes two,
   // parameters: "x" and "theFunction".
